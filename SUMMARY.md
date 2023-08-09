@@ -4,7 +4,9 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
+* [Managing Networks](guides/managing-networks/README.md)
+  * [Check DeBank Networks](guides/managing-networks/check-debank-networks.md)
+  * [Enabling a Network](guides/managing-networks/enabling-a-network.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
